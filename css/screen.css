@@ -182,6 +182,9 @@ a:focus {
     }
 }
 
+.o-container {
+    max-width: 90em;
+}
 /*
     Object: Object name
     ---
